@@ -5,7 +5,6 @@ a:link, a:visited {
     display: block;
     width: 380px;
     text-align: center;
-    margin-left: 2%;
 }
 a:hover, a:active {
     color: #28089b;
